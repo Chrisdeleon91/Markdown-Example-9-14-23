@@ -24,9 +24,11 @@ in a HFT firm.`
 ---
 Link to Linkedin : [Linkedin](http.linkedin.com)
 
-Link to local image in repo : [Picture](/images/columbia.jpg)
-Link to imaged hosted online : [Picture](https://usa.bootcampcdn.com/wp-content/themes/Columbia-V3/media/img/data-landing-page/logo/columbia_logo.svg)
+Link to local image in repo : ![Picture](/images/columbia.jpg)
+Link to imaged hosted online : ![Picture](https://usa.bootcampcdn.com/wp-content/themes/Columbia-V3/media/img/data-landing-page/logo/columbia_logo.svg)
 
 Link to local folder code in repo : [/code/](/code/)
+
 Link to local folder data in repo : [/data/](/data/)
+
 Link to local folder images in repo : [/images/](/images/)
