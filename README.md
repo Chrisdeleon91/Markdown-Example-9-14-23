@@ -22,4 +22,5 @@ in a HFT firm.`
 `I want to integrate all of my interests into one job, FPGAs, algorithms and making money!`
 
 Link to Linkedin : [Linkedin](http.linkedin.com)
+
 Link to local image in repo : [Picture](image.jpg)
