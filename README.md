@@ -1,8 +1,9 @@
 # example-9-14
 ## subheader new line from within github.com!
 ### sub-sub-header NEW LINE!
+---
 Bootcamp – Day 3 Thursday 7:00-10:00 PM
-
+--- 
 **but there is a paragraph break** *here*
 
 > "Who are you? What's your background?"
@@ -20,7 +21,7 @@ in a HFT firm.`
 > "Why did you choose FinTech as a career path?"
 
 `I want to integrate all of my interests into one job, FPGAs, algorithms and making money!`
-
+---
 Link to Linkedin : [Linkedin](http.linkedin.com)
 
 Link to local image in repo : [Picture](image.jpg)
